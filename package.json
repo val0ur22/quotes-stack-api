@@ -1,0 +1,25 @@
+{
+  "name": "quotes-stack-api",
+  "version": "1.0.0",
+  "description": "An API for managing and serving a collection of quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "quotes",
+    "API",
+    "quotes-stack"
+  ],
+  "author": "Valerie Lam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/val0ur22/quotes-stack-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/val0ur22/quotes-stack-api/issues"
+  },
+  "homepage": "https://github.com/val0ur22/quotes-stack-api#readme"
+}
