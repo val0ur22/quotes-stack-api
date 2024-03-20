@@ -1,21 +1,89 @@
 {
-    "quotes": [
-      {
-        "author": "Naval",
-        "quote": "The modern mental illness is anxiety."
-      },
-      {
-        "author": "Naval",
-        "quote": "Some of the most creative and productive people I have ever met work in multi-week bursts and then have weeks where they just idle with little done. It's the nature of the human animal."
-      },
-      {
-        "author": "Naval",
-        "quote": "If you cannot decide, the answer is no."
-      },
-      {
-        "author": "Naval",
-        "quote": "One of the most damaging and widespread social beliefs is the idea that most adults are incapable of learning new skills."
-      }
-    ]
-  }
-  
+  "quotes": [
+    {
+      "author": "Naval",
+      "source": "",
+      "quote": "The modern mental illness is anxiety."
+    },
+    {
+      "author": "Naval",
+      "source": "",
+      "quote": "Some of the most creative and productive people I have ever met work in multi-week bursts and then have weeks where they just idle with little done. It's the nature of the human animal."
+    },
+    {
+      "author": "Naval",
+      "source": "",
+      "quote": "If you cannot decide, the answer is no."
+    },
+    {
+      "author": "Naval",
+      "source": "",
+      "quote": "One of the most damaging and widespread social beliefs is the idea that most adults are incapable of learning new skills."
+    },
+    {
+      "author": "Naval",
+      "source": "",
+      "quote": "The modern mental illness is anxiety."
+    },
+    {
+      "author": "Carl Jung",
+      "source": "Letters Vol. 1, Pages 388-389",
+      "quote": "The work of art has its own specific psychology which is sometimes notably different from the psychology of the artist. Were it not so, the work of art would not be autonomous."
+    },
+    {
+      "author": "Carl Jung",
+      "source": "Man and His Symbols, Page 25",
+      "quote": "We find . . . in everyday life, where dilemmas are sometimes solved by the most surprising new propositions; many artists, philosophers, and even scientists owe some of their best ideas to inspirations . . . from the unconscious."
+    },
+    {
+      "author": "Carl Jung",
+      "source": "Psychology and Literature",
+      "quote": "The artist is not a person endowed with free will who seeks his own ends, but one who allows art to realize its purposes through him. As a human being he may have moods and a will and personal aims, but as an artist he is 'man' in a higher sense - he is 'collective man,' a vehicle and molder of the unconscious psychic life of mankind."
+    },
+    {
+      "author": "Carl Jung",
+      "source": "Letters Vol. II, Pages 387-392",
+      "quote": "Most people are afraid of silence; hence, whenever the everlasting chit-chat at a party suddenly stops, they are impelled to say something, do something, and start ﬁdgeting, whistling, humming, coughing, whispering. "
+    },
+    {
+      "author": "@chddaniel",
+      "source": "https://twitter.com/chddaniel/status/1725146212733751700",
+      "quote": "Over-communicators and great communicators have an edge when using AI."
+    },
+    {
+      "author": "Adam Lane Smith",
+      "source": "https://twitter.com/TheBrometheus/status/1733856799726477587",
+      "quote": "Don't work harder than the person you're helping. That's enabling."
+    },
+    {
+      "author": "Adam Mastroianni",
+      "source": "",
+      "quote": "Strangling your passions in exchange for an elite life is like being on the Titanic after the iceberg, water up to your chin, with everybody telling you that you're so lucky to be on the greatest steamship of all time. And the Titanic is indeed so huge and wonderful that you can't help but agree, but you're also feeling a bit cold and wet at the moment, and you're not sure why."
+    },
+    {
+      "author": "Myshkin @AxeOfRaskolnikv",
+      "source": "https://twitter.com/AxeOfRaskolnikv/status/1737921291112554921",
+      "quote": "'Kafka said 'A non-writing writer is a monster courting insanity.' Now you understand why you are going insane? Go complete the story that you have been planning for years, Please!"
+    },
+    {
+      "author": "David Perell",
+      "source": "https://twitter.com/david_perell/status/1662858811395244033?s=20",
+      "quote": "The irony of struggle is it seems pointless at the time, but over the long run, it makes you useful because nobody wants to learn from somebody who hasn't endured hardship."
+    },
+    {
+      "author": "Stefan Zweig",
+      "source": "https://www.anthologialitt.com/post/balzac-the-eccentric-by-stefan-zweig",
+      "quote": "... a master in one sphere can be a bungler when he ventures into another for which he is not fitted."
+    },
+    {
+      "author": "Soren Kierkegaard",
+      "source": "The Crowd is Untruth",
+      "quote": "A crowd is indeed made up of single individuals; it must therefore be in everyone's power to become what he is, a single individual; no one is prevented from being a single individual, no one, unless he prevents himself by becoming many. To become a crowd, to gather a crowd around oneself, is on the contrary to distinguish life from life; even the most well-meaning one who talks about that, can easily offend a single individual."
+    },
+    {
+      "author": "Penelope Trunk",
+      "source": "https://blog.penelopetrunk.com/2012/07/30/best-advice-to-twentysomethings-trust-yourself/",
+      "quote": "'What should I be doing now?' is a question I get a lot from people in their 20s. The answer is that you should be respecting yourself as you learn about yourself. You should give yourself the space to do anything and then look closely to see what you enjoy. You do not need to get paid for what you enjoy, but you need to find a way to commit to what you enjoy, and then use that as a foundation to grow your adult life."
+    }
+  ]
+}
